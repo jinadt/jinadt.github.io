@@ -1,0 +1,42 @@
+
+
+/* fonts */
+body {
+  font-family: Arial, verdana, sans-serif;
+  background-color: honeydew;
+}
+
+/* Table 1, 2 */
+h1, h2 {
+  text-align: center;
+}
+h2 {
+  color: aquamarine;
+  font-weight: bolder;
+}
+
+table {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+th, td {
+  padding: 10px 10px 10px 10px;
+  border: 2px solid aquamarine;
+
+}
+
+/* Background color table 2 */
+th {
+  background-color: aquamarine;
+}
+
+.background {
+  background-color: aquamarine;
+  font-weight: bold;
+}
+
+.tag {
+  background-color: greenyellow;
+
+}
